@@ -1,2 +1,3 @@
 polar:
   greeting: "Welcome to the production catalog service from a fresh config server"
+  catalog-service-timeout: 10s

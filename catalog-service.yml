@@ -1,2 +1,3 @@
 polar:
   greeting: "Welcome to the catalog service from a fresh config server"
+  catalog-service-timeout: 5s
